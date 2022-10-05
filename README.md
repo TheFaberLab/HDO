@@ -6,7 +6,7 @@ Arterial vasodilation caused by cerebral vasomotion can cause oscillations of th
 The presented algorithms detect and suppress HDO.
 
 HDO_detection <br>
-The script ‘HDO_detection_master’ detects oscillations and delivers the output whether the inserted time course contains HDO.
+The script ‘HDO_detection_master’ detects oscillations and delivers the output whether an inserted time course contains HDO.
 
 HDO_suppression<br>
 The script ‘HDO_suppression_master’ suppresses HDO from an inserted time course.

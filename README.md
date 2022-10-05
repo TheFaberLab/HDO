@@ -10,7 +10,7 @@ The script ‘HDO_detection_master’ detects oscillations and delivers the outp
 
 HDO_suppression<br>
 The script ‘HDO_suppression_master’ suppresses HDO from an inserted time course.
-Additionally, the script ‘HDO_suppr_voxelwise_master.m’ enables the voxelwise application of the HDO suppression algorithm to a 4D-fMRI dataset in the nifty format.
+Additionally, the script ‘HDO_suppr_voxelwise_master.m’ enables the voxel-wise application of the HDO suppression algorithm to a 4D-fMRI dataset in the nifti format.
 
 # Software Requirements
 The scripts run on MATLAB 2017b and all newer versions.

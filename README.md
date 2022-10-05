@@ -3,7 +3,7 @@ Algorithms for detection and suppression of hemodynamic oscillations (HDO).
 
 # Overview
 Arterial vasodilation caused by cerebral vasomotion can cause oscillations of the blood flow. Rat fMRI measurements of medetomidine sedated animals show oscillations with a characteristic frequency around 0.2 Hz. These hemodynamic oscillations (HDO) constitute a physiological noise source for fMRI measurements and affect analysis of fMRI data.
-The presented algorithms detect and suppresses HDO.
+The presented algorithms detect and suppress HDO.
 
 HDO_detection <br>
 The script ‘HDO_detection_master’ detects oscillations and delivers the output whether the inserted time course contains HDO.

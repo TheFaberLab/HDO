@@ -13,4 +13,4 @@ The script ‘HDO_suppression_master’ suppresses HDO from an inserted time cou
 Additionally, the script ‘HDO_suppr_voxelwise_master.m’ enables the voxel-wise application of the HDO suppression algorithm to a 4D-fMRI dataset in the NIfTI format.
 
 # Software Requirements
-The scripts run on MATLAB 2017b and all newer versions.
+The scripts run on MATLAB 2017b and all later versions.

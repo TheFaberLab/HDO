@@ -6,10 +6,10 @@ Arterial vasodilation caused by cerebral vasomotion can cause oscillations of th
 The presented algorithms detect and suppress HDO.
 
 HDO_detection <br>
-The script ‘HDO_detection_master’ detects oscillations and delivers the output whether an inserted time course contains HDO. An fMRI signal time course and its temporal resolution is to insert as one-dimensional double arrays (see example data).
+The script ‘HDO_detection_master’ detects oscillations and delivers the output whether an inserted time course contains HDO. An fMRI signal time course and its temporal resolution are to insert as one-dimensional double arrays (see example data).
 
 HDO_suppression<br>
-The script ‘HDO_suppression_master’ suppresses HDO from an inserted time course. An fMRI signal time course and its temporal resolution is to insert as one-dimensional double arrays (see example data). <br>
+The script ‘HDO_suppression_master’ suppresses HDO from an inserted time course. An fMRI signal time course and its temporal resolution are to insert as one-dimensional double arrays (see example data). <br>
 Additionally, the script ‘HDO_suppr_voxelwise_master.m’ enables the voxel-wise application of the HDO suppression algorithm to a 4D-fMRI dataset in the NIfTI format.
 
 # Software Requirements

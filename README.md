@@ -16,7 +16,7 @@ Additionally, the script ‘HDO_suppr_voxelwise_master.m’ enables the voxel-wi
 The scripts run on MATLAB 2017b and all later versions.
 
 # How to cite HDO algorithms
-These scripts were created by your colleagues. Please cite the article in which HDO algorithms were described:
-Lambers et al. Frontiers in neuroscience. 2023 Feb; 17: 1064000. doi:10.3389/fnins.2023.1064000
+These scripts were created by your colleagues. Please cite the article in which HDO algorithms were described:<br>
+Lambers et al. Frontiers in neuroscience. 2023 Feb; 17: 1064000. doi:10.3389/fnins.2023.1064000<br>
 https://www.frontiersin.org/articles/10.3389/fnins.2023.1064000/full
 
